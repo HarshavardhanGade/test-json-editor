@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "key": "app:env0",
+            "value": "prod0"
+		"SlotSetting":true
+        },
+        {
+            "key": "app:envt1",
+            "value": "prod1"
+		"SlotSetting":true
+        }
+        {
+            "key": "app:env8",
+            "value": "prod8"
+		"SlotSetting":true
+        }
+    ]
+}
